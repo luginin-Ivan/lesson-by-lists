@@ -1,1 +1,1 @@
-# lesson on list
+lesson by lists
